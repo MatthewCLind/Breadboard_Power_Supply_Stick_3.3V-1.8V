@@ -1,7 +1,7 @@
 SparkFun Breadboard Power Supply Stick - 3.3V/1.8V
 =====================================
 
-![SparkFun Breadboard Power Supply Stick - 3.3V/1.8V](https://cdn.sparkfun.com//assets/parts/6/0/9/4/10934-01.jpg)
+![SparkFun Breadboard Power Supply Stick - 3.3V/1.8V](v15.png)
 
 [*SparkFun Breadboard Power Supply Stick - 3.3V/1.8V (PRT-10934)*](https://www.sparkfun.com/products/13157)
 
